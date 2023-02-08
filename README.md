@@ -1,6 +1,6 @@
 - 👋 Hi, I’m RIDDHESH MALI
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning DSA in Java and Frontend development!!.
+- 🌱 I’m currently learning DSA in C++ and Frontend development!!.
 - 📫 Feel free to contact me via E-mail ----> riddheshmali109@gmail.com or riddheshmalirm@gmail.com
 
 
